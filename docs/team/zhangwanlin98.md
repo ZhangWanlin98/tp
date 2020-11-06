@@ -12,28 +12,28 @@ It is written in Java, and has about 10 kLoC.
 
 Given below are my contributions to the project.
 
-* **New Feature**: (to be added soon)
+* **New Feature**: 
+    * Assign Feature
+    * View Feature
 
-* **Code contributed**: [RepoSense link]()
+* **Code contributed**: [RepoSense link](https://nus-cs2103-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=zhangwanlin98&sort=groupTitle&sortWithin=title&since=2020-08-14&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other&tabOpen=true&tabType=authorship&zFR=false&tabAuthor=ZhangWanlin98&tabRepo=AY2021S1-CS2103T-T12-4%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code)
 
 * **Project management**:
 
 * **Enhancements to existing features**:
+    * Find feature enhancement from finding by name to finding by name or phone number or NRIC, or any combination of them.
 
 * **Documentation**:
   * User Guide:
-    * Added documentation for the features `list`, `edit`and `find` [\#47]()
+    * Added documentation for the features `list`, `edit`and `find` [\#47](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/47)
+
   * Developer Guide:
-    * Added Use Cases.
+    * Authored the details of Use Cases [\#48](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/48).
 
 * **Community**:
-  * PRs reviewed (with non-trivial review comments): (examples: [\#12](), [\#32](), [\#19](), [\#42]())
-  * Contributed to forum discussions (examples: [1](), [2](), [3](), [4]())
-  * Reported bugs and suggestions for other teams in the class (examples: [1](), [2](), [3]())
-  * Some parts of the history feature I added was adopted by several other class mates ([1](), [2]())
+  * PRs reviewed (with non-trivial review comments): 
+    (example: [\#114](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/114),
+    [\#96](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/96))
+  * Contributed to forum discussions: none
 
 * **Tools**:
-  * Integrated a third party library (Natty) to the project ([\#42]())
-  * Integrated a new Github plugin (CircleCI) to the team repo
-
-* _{you can add/remove categories in the list above}_
