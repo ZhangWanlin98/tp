@@ -27,6 +27,7 @@ Given below are my contributions to the project.
     * Enhanced find feature from finding by name to finding by name or phone number or NRIC, or any combination of them.(Pull request [\#134](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/134))
         * **Justification**: This enhancement improves the product greatly as it allows the nurse to search for patients not only by their names but also by phone number and IC number, which significantly improve the convenience of using the product. 
 
+<br><br>
 * **Documentation**:
   * User Guide:
     * Added documentation for the features `list`, `edit`and `find`. (Pull request [\#47](https://github.com/AY2021S1-CS2103T-T12-4/tp/pull/47))
